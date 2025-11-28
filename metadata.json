@@ -1,0 +1,5 @@
+{
+  "name": "PlayStore Architect",
+  "description": "An AI-powered workbench for crafting, optimizing, and visualizing Google Play Store listings using Gemini.",
+  "requestFramePermissions": []
+}
